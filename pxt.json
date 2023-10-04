@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "基礎統計量2": "github:rock204/basicstat2#0d2472692f083e589af5c225caa76d982a58a8a9"
     },
     "files": [
         "main.blocks",
